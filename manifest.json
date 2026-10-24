@@ -1,5 +1,15 @@
 {
   "basePatch": 0,
-  "latestPatch": 0,
-  "patches": [ ]
+  "latestPatch": 1,
+  "patches": [
+    {
+      "id": 1,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0001/0001.zip",
+      "sha256": "71AD30D9BDFA7652F8038D16EAFFB75B8EF861F28EB04EF300C236DF3AF65475",
+      "size": 484655,
+      "grf": "patch0001.grf",
+      "note": "อัปเข้ารหัสแพช",
+      "date": "2026-10-25"
+    }
+  ]
 }
