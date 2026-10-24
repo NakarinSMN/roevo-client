@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 9,
+  "latestPatch": 10,
   "patches": [
     {
       "id": 1,
@@ -79,6 +79,15 @@
       "size": 969267,
       "grf": "patch0009.grf",
       "note": "เทสระบบ แพตช์",
+      "date": "2026-10-24"
+    },
+    {
+      "id": 10,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0010/0010.zip",
+      "sha256": "47C83CBDD921B0ECACC27B2F41AE1ED25C0448490B2CE5B40989D3C4911788E5",
+      "size": 1337818,
+      "grf": "patch0010.grf",
+      "note": "แก้ แมพ",
       "date": "2026-10-24"
     }
   ]
