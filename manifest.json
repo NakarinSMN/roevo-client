@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 6,
+  "latestPatch": 7,
   "patches": [
     {
       "id": 1,
@@ -51,6 +51,15 @@
       "sha256": "BA0FC7EBD9BF8E1506DEA147F3B7C03983677DF2912B2070A62676AA00934EC0",
       "size": 338011,
       "grf": "patch0006.grf",
+      "note": "BGLogin",
+      "date": "2026-10-24"
+    },
+    {
+      "id": 7,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0007/0007.zip",
+      "sha256": "B9E396D256B524C973156A1A6DD454177E430380A1FFBD6E8E417138F482BE69",
+      "size": 338017,
+      "grf": "patch0007.grf",
       "note": "BGLogin",
       "date": "2026-10-24"
     }
