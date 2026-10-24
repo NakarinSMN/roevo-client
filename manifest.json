@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 13,
+  "latestPatch": 14,
   "patches": [
     {
       "id": 1,
@@ -114,6 +114,15 @@
       "sha256": "44FEE76F1F860E01AF3D867A44058BB928D878D8BD2211FE886D11CFA80D1084",
       "size": 484501,
       "note": "แก้ 11",
+      "date": "2026-10-25"
+    },
+    {
+      "id": 14,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0014/0014.zip",
+      "sha256": "4892E7C543AF2A23FF0A448C42C2A9814F5FA72F358A6F8F93DBD905E5CA895C",
+      "size": 969183,
+      "grf": "patch0014.grf",
+      "note": "อัปเดต",
       "date": "2026-10-25"
     }
   ]
