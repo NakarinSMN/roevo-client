@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 11,
+  "latestPatch": 12,
   "patches": [
     {
       "id": 1,
@@ -97,6 +97,15 @@
       "size": 484695,
       "grf": "patch0011.grf",
       "note": "อัปเดต t_login.jpg",
+      "date": "2026-10-24"
+    },
+    {
+      "id": 12,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0012/0012.zip",
+      "sha256": "5A8EF2A5D235041FF5CA2E20ED1C003CDA34CC1E9972D3BF48D2359BE91FFFB1",
+      "size": 484698,
+      "grf": "patch0012.grf",
+      "note": "ฮัปเดต",
       "date": "2026-10-24"
     }
   ]
