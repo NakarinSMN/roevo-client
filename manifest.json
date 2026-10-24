@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 2,
+  "latestPatch": 3,
   "patches": [
     {
       "id": 1,
@@ -15,6 +15,15 @@
       "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0002/0002.zip",
       "sha256": "6EC971A11400A64D2A9616DE3E23E420FF210F2D391468AFC36353C60981BDAA",
       "size": 390872,
+      "note": "เปลี่ยนพื้นหลัง",
+      "date": "2026-10-24"
+    },
+    {
+      "id": 3,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0003/0003.zip",
+      "sha256": "E270D5CA84DDB07F635412B2522A311514BB659F3A858EFE25F6F4CBA315EB71",
+      "size": 390714,
+      "grf": "patch0003.grf",
       "note": "เปลี่ยนพื้นหลัง",
       "date": "2026-10-24"
     }
