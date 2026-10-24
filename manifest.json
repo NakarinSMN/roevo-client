@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 3,
+  "latestPatch": 4,
   "patches": [
     {
       "id": 1,
@@ -25,6 +25,15 @@
       "size": 390714,
       "grf": "patch0003.grf",
       "note": "เปลี่ยนพื้นหลัง",
+      "date": "2026-10-24"
+    },
+    {
+      "id": 4,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0004/0004.zip",
+      "sha256": "B4B5E31CC25C689B8BA36FBB9D7383A61C78B90B0D8BF6D3A89F56CA9BFF61A1",
+      "size": 321306,
+      "grf": "patch0004.grf",
+      "note": "Test",
       "date": "2026-10-24"
     }
   ]
