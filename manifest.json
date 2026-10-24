@@ -1,0 +1,14 @@
+{
+  "basePatch": 0,
+  "latestPatch": 1,
+  "patches": [
+    {
+      "id": 1,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0001/0001.zip",
+      "sha256": "4E8EC5824342CA5F0FE764B56C349F99701E49637D8122861708A5631CFB3E62",
+      "size": 786859218,
+      "note": "Test",
+      "date": "2026-10-24"
+    }
+  ]
+}
