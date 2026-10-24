@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 7,
+  "latestPatch": 8,
   "patches": [
     {
       "id": 1,
@@ -61,6 +61,15 @@
       "size": 338017,
       "grf": "patch0007.grf",
       "note": "BGLogin",
+      "date": "2026-10-24"
+    },
+    {
+      "id": 8,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0008/0008.zip",
+      "sha256": "1DB64770DD1AF0EB049AFB29337A13D9F8392E32840E0518EEBBD1A4468DA627",
+      "size": 913144,
+      "grf": "patch0008.grf",
+      "note": "Test",
       "date": "2026-10-24"
     }
   ]
