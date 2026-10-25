@@ -11,5 +11,12 @@
       "note": "อัปเข้ารหัสแพช",
       "date": "2026-10-25"
     }
-  ]
+  ],
+  "launcher": {
+    "version": "0.3.2",
+    "url": "https://github.com/NakarinSMN/roevo-client/releases/download/launcher-v0.3.2/ROEvoLauncher.exe",
+    "sha256": "B32AD9D12FEB3C3270015FD84C34CDBBAD1A9FE18BC001CE5B50E0846B576F90",
+    "size": 81075099
+  },
+  "signature": "clxiNrxh1Mf6zIx+FbxcIA0XK6c+OylfPWZDwb9PmTHG5FzMz40f8HK7Kw2vm9a4NTzjxinGbXUFH3D0ad0lCA=="
 }
