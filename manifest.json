@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 1,
+  "latestPatch": 2,
   "patches": [
     {
       "id": 1,
@@ -10,6 +10,14 @@
       "grf": "patch0001.grf",
       "note": "อัปเข้ารหัสแพช",
       "date": "2026-10-25"
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0002/0002.zip",
+      "sha256": "30A8C0A1DD3CD2C7C12AA2818C3C135D773BAA529A7E5D2BC57EBCF10E901D2A",
+      "size": 422,
+      "note": "อัปเดตทั่วไป",
+      "date": "2026-10-25"
     }
   ],
   "launcher": {
@@ -18,5 +26,5 @@
     "sha256": "84534857F3E55B9D5F5B33972345830DBB40B80CA61ED3D4FA521B8CE6982D5B",
     "size": 81076123
   },
-  "signature": "Z/e+bM3UG5kKCJ148s1/TxdGLj3vIY2vYUwu3GHyEWDz2dxAYRcaWIFZ2Ru2Y3xLttpbu84pSh+PClTo6M6mAg=="
+  "signature": "YppAi/kcFYhdP23KeoLZa+SbWHVjDfRU+6uX00J4/V5bIv5A2rc1lTTgiVjyLeeLlxB0tYE3p+rQ3KU5Tl19CQ=="
 }
