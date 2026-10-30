@@ -3,14 +3,14 @@
   "latestPatch": 0,
   "patches": [],
   "launcher": {
-    "version": "0.4.1",
-    "url": "https://github.com/NakarinSMN/roevo-client/releases/download/launcher-v0.4.1/ROEvoLauncher.exe",
-    "sha256": "5EFD4319281AB049571464B4424FF25E3A26060E44ED0E6D0889217D550B328E",
-    "size": 81077147
+    "version": "0.4.2",
+    "url": "https://github.com/NakarinSMN/roevo-client/releases/download/launcher-v0.4.2/ROEvoLauncher.exe",
+    "sha256": "25B0D3F529BD8D282974ADD03323EFEC69E0177B052D978640DE3501BAD1F809",
+    "size": 81076123
   },
   "base": {
     "url": "https://github.com/NakarinSMN/roevo-client/releases/download/base-0/",
     "sha256": "686777B20C991D851363ED53FA91782F8D807E559C29A4EB661683DB2D7CEC6E"
   },
-  "signature": "dn2GmofTuojnNwDeXexy70tJ3fIFOJAZUdbja/zczF//tbDcpE7BupRFut4L7v9C4zWBg6lHREglT3f7JNw2AA=="
+  "signature": "0IuHiqN8DV9YVUz5mZxnzCJhhlDruiDcG+YPn3GS8DzFae1NJDrhJYG+6iRsFIHBgUf8NCGp0vkZAnMuHXfSDg=="
 }
