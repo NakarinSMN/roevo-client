@@ -9,8 +9,8 @@
     "size": 86026728
   },
   "base": {
-    "url": "https://github.com/NakarinSMN/roevo-client/releases/download/base-0/",
-    "sha256": "686777B20C991D851363ED53FA91782F8D807E559C29A4EB661683DB2D7CEC6E"
+    "url": "https://github.com/NakarinSMN/roevo-client/releases/download/base-1/",
+    "sha256": "88D4C9BEA9FB05FCA8C1F1022669723E68E2A58A736ECAB840F782FC0950F622"
   },
-  "signature": "6opWCKLPUHFe4/c8MOsB4TiaJl5XOEHhXbEAnsr9HSLLv5Lj0EaIdNd4a1GkUZx4ZplD1aHsczSGHa23lrANAQ=="
+  "signature": "u1e0CFn8m43iOKWmD66lJ7ylGgzAX9bdpzJxWBhcTD6nqhk20WewL4JBLq0sG9+3HX3gJvbqzeT9yX7/SMaLDQ=="
 }
