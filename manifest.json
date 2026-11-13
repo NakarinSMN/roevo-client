@@ -1,6 +1,6 @@
 {
   "basePatch": 0,
-  "latestPatch": 1,
+  "latestPatch": 2,
   "patches": [
     {
       "id": 1,
@@ -15,6 +15,14 @@
       ],
       "note": "Player_Patch_20261113",
       "date": "2026-11-13"
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0002/0002.zip",
+      "sha256": "468FB77CFDADAAFD7448068202F2B926AF3BF178BBF94211BE6EFC3430FFF0AE",
+      "size": 2554424,
+      "note": "Fix",
+      "date": "2026-11-13"
     }
   ],
   "launcher": {
@@ -27,5 +35,5 @@
     "url": "https://github.com/NakarinSMN/roevo-client/releases/download/base-1/",
     "sha256": "88D4C9BEA9FB05FCA8C1F1022669723E68E2A58A736ECAB840F782FC0950F622"
   },
-  "signature": "3HNPsSnPAb+E5ds4QtpaXA9KAd4aXrstIIRorlg34Q2nvVtuQKaxfxD9tN51Pa33bG1r+Yp6aysNIvs3xK96CQ=="
+  "signature": "FqR0XMfxCfebahvP42GOrSkWFtgwyDt3R1JOX01PtprdTjyxuC/PbHMmgKzzXAx+LsKhhCgM4MpiXBu5KJaQCw=="
 }
