@@ -26,14 +26,14 @@
     }
   ],
   "launcher": {
-    "version": "0.4.5",
-    "url": "https://github.com/NakarinSMN/roevo-client/releases/download/launcher-v0.4.5/ROEvoLauncher.exe",
-    "sha256": "7C1AABEF3134EB9812064F28C8F684F64D8141549D685BF6273F0CB4F63908A8",
-    "size": 86026728
+    "version": "0.4.6",
+    "url": "https://github.com/NakarinSMN/roevo-client/releases/download/launcher-v0.4.6/ROEvoLauncher.exe",
+    "sha256": "BB3FFD9D86941BBE7DD557680D1233901F9ACAEF513FE209D0420009670638A3",
+    "size": 86027240
   },
   "base": {
     "url": "https://github.com/NakarinSMN/roevo-client/releases/download/base-1/",
     "sha256": "88D4C9BEA9FB05FCA8C1F1022669723E68E2A58A736ECAB840F782FC0950F622"
   },
-  "signature": "FqR0XMfxCfebahvP42GOrSkWFtgwyDt3R1JOX01PtprdTjyxuC/PbHMmgKzzXAx+LsKhhCgM4MpiXBu5KJaQCw=="
+  "signature": "+/wutpUtEdxmSeRSPhupPqUCwoU2EozOpsWZHhQakj/4/ebcBet+F8MUy6+FNLDXFNHxUZBYh93v7NFfkMRFAg=="
 }
