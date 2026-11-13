@@ -1,7 +1,22 @@
 {
   "basePatch": 0,
-  "latestPatch": 0,
-  "patches": [],
+  "latestPatch": 1,
+  "patches": [
+    {
+      "id": 1,
+      "url": "https://github.com/NakarinSMN/roevo-client/releases/download/patch-0001/0001.zip",
+      "sha256": "436E8C7E5C0CB032407C48E47E78923678D7E07E34BC32FE2F4C018D4528772A",
+      "size": 13250954,
+      "grf": "patch0001.grf",
+      "grfs": [
+        "potion_tooltips.grf",
+        "guild_emblem_test.grf",
+        "evo_verify_credit.grf"
+      ],
+      "note": "Player_Patch_20261113",
+      "date": "2026-11-13"
+    }
+  ],
   "launcher": {
     "version": "0.4.5",
     "url": "https://github.com/NakarinSMN/roevo-client/releases/download/launcher-v0.4.5/ROEvoLauncher.exe",
@@ -12,5 +27,5 @@
     "url": "https://github.com/NakarinSMN/roevo-client/releases/download/base-1/",
     "sha256": "88D4C9BEA9FB05FCA8C1F1022669723E68E2A58A736ECAB840F782FC0950F622"
   },
-  "signature": "u1e0CFn8m43iOKWmD66lJ7ylGgzAX9bdpzJxWBhcTD6nqhk20WewL4JBLq0sG9+3HX3gJvbqzeT9yX7/SMaLDQ=="
+  "signature": "3HNPsSnPAb+E5ds4QtpaXA9KAd4aXrstIIRorlg34Q2nvVtuQKaxfxD9tN51Pa33bG1r+Yp6aysNIvs3xK96CQ=="
 }
